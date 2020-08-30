@@ -1,1 +1,1 @@
-<marquee> just testing page dakshu<marquee>
+SUBDOMAIN TAKEOVER
